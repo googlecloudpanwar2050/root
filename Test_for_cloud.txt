@@ -1,0 +1,16 @@
+9913000015
+9912000004
+8818000005
+9914000027
+9911000026
+
+PORI OCI QC
+
+QC.sub03010910560.berpprod.oraclevcn.com
+Ip: 140.238.250.183
+Password: FU#$321nbspl	Username: fun
+
+CT-0043
+
+Admin
+abc@123
